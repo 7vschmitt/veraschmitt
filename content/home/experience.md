@@ -43,7 +43,24 @@ experience:
     location: Hamburg
     date_start: '2018-05-01'
     date_end: '2018-09-29'
-    description: Data visualization of sensor data and implementing a CNN for classification of images from clouds
+    description: |2-
+      Responsibilities include:
+
+      * Data visualization of sensor data  
+      * Implementing CNN for classification of images from clouds
+
+  - title: Student Assistant
+    company: Leuphana University Lüneburg
+    company_url: ''
+    company_logo: 
+    location: Lüneburg
+    date_start: '2017-10-01'
+    date_end: '2019-03-29'
+    description: |2-
+      Responsibilities include:
+
+      * Preparing and running programming exercises (R)
+      * Support the construction and correction of the exams 
 
   - title: Founding memeber and former board member
     company: CorrelAid

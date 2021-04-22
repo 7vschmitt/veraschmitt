@@ -5,13 +5,13 @@ widget: accomplishments
 
 # This file represents a page section.
 headless: true
-active: false
+#active: false
 
 # Order that this section appears on the page.
-weight: 50
+weight: 35
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Teaching Activities'
 subtitle:
 
 # Date format
@@ -24,29 +24,43 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+- certificate_url: 
+  date_end: "2021-09-25"
+  date_start: "2021-04-25"
+  description: Topics related to current research focus of Quality and Usability Lab are offered to teach the necessary basics and pracitcal applications. This semester I supervise a project regarding privacy-conscious descision-making.  
+  organization: TU Berlin
+  organization_url: 
+  title: Advanced Study Projects SS2021
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+- certificate_url: 
+  date_end: "2021-09-25"
+  date_start: "2021-04-25"
+  description: Within this module the students develop products in the scope of digital media. Hereby, competencies in computer science are relevant but also creative and analytical skills.  
+  
+   - Within the summer term 2021 I supervise a hardware project to develop a smart hydroponic system. 
+   
+   - Within the summer term 2020 I supervised a project about dashboard creation and advanced data visualization.
+
+  organization: TU Berlin
+  organization_url: 
+  title: Projekt Medienerstellung SS2021
+  url: ""
+
+- certificate_url: 
+  date_end: "2021-03-01"
+  date_start: "2020-10-01"
+  description: This seminar gives an introduction to privacy, with the focus on human aspects in information privacy. Topics include social media, location tracking, user behavior with respect to e.g. decision making, self-disclosure, and the privacy paradox. During the winter semester I supervised various topics in this seminar. 
+  organization: TU Berlin
+  organization_url: 
+  title: Usable Privacy Seminar WS2020/21
+  url: ""
+- certificate_url: 
+  date_end: "2021-03-01"
+  date_start: "2020-10-01"
+  description: The aim of this seminar is to introduce statistical methods, which are commonly used in the Human-computer Interaction (HCI) research, to students from practical perspective. During the winter semester I supervised various topics in this seminar. 
+  organization: TU Berlin
+  organization_url: 
+  title: Quality and Usability Seminar - Statistics WS2020/21
   url: ""
 
 design:

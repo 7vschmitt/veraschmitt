@@ -18,9 +18,9 @@ bio: My research interests include natural language processingm usable privacy, 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Natural Language Processing 
-- Privacy Engineering 
+- Usable Privacy
+- Ethics of Artificial Intelligence 
 
 # Education to show in About widget
 education:
@@ -61,7 +61,7 @@ email: ""
 highlight_name: false
 ---
 
-Vera Schmitt is a PhD student at the Quality and Usability Lab TU Belrin. Her research interests range from usable privacy, fake news detection to ethics of AI. 
+Vera Schmitt is a PhD student at the Quality and Usability Lab TU Berlin. Her research interests range from usable privacy, fake news detection to ethics of AI. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -2,15 +2,15 @@
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-
+active: false
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
 # Section title
-title: Hello
+title: what do I do
 
 # Section subtitle
 subtitle:
