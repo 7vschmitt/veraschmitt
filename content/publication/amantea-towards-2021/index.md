@@ -6,11 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Rafael Amantea
+- Eduardo Cortes
 - Vera Schmitt
+- Vinicius Woloszyn
 - Dante Barone
 - Sebastian Möller
-- Eduardo Cortes
-- Vinicius Woloszyn
 tags: []
 categories: []
 date: '2021-02-01'
@@ -22,7 +22,7 @@ draft: false
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+#publication_types: ["3"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -40,7 +40,7 @@ image:
 projects: []
 publishDate: '2021-04-22T19:13:04.647760Z'
 publication_types:
-- '1'
+- '3'
 abstract: The spreading of disinformation throughout the web has become a critical
   problem for a democratic society. The dissemination of fake news has become a profitable
   business and a common practice among politicians and content producers. On the other

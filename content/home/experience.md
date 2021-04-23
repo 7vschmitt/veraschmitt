@@ -31,38 +31,32 @@ experience:
     date_end: '2019-09-30'
     description: |2-
         Responsibilities include:
-        
         * Implementation of various machine learning methods for prediction tasks
         * Prepare and run courses for R and Python
         * Support the preparation for the international Digital Week for the digital transformation of Hapag-Lloyd
         
   - title: Student Assistant
-    company: Max-Planck Institute for Meteorology
+    company: At various research institutions 
     company_url: ''
     company_logo: 
-    location: Hamburg
-    date_start: '2018-05-01'
-    date_end: '2018-09-29'
-    description: |2-
-      Responsibilities include:
-
-      * Data visualization of sensor data  
-      * Implementing CNN for classification of images from clouds
-
-  - title: Student Assistant
-    company: Leuphana University Lüneburg
-    company_url: ''
-    company_logo: 
-    location: Lüneburg
-    date_start: '2017-10-01'
+    location: Hamburg, Lüneburg, Konstanz
+    date_start: '2015-04-01'
     date_end: '2019-03-29'
     description: |2-
-      Responsibilities include:
-
+      Max-Planck Institute for Meteorology (May 2018 - September 2018):
+      * Data visualization of sensor data  
+      * Implementing CNN for classification of images from clouds
+      
+      Leuphana University Lüneburg (WS2017/18 and WS2018/19):
       * Preparing and running programming exercises (R)
-      * Support the construction and correction of the exams 
+      * Support the construction and correction of the exams
 
-  - title: Founding memeber and former board member
+      University of Konstanz (April 2015-September 2015):
+      * Data collection for study of small-party system in Germany
+
+
+
+  - title: Founding memeber and board member
     company: CorrelAid
     company_url: 'https://correlaid.org/'
     company_logo: 
@@ -70,17 +64,6 @@ experience:
     date_start: '2015-07-01'
     date_end: '2017-10-29'
     description: Founding member and former board member of CorrelAid, a data science non-profit
-
-  - title: Student Assistant
-    company: University of Konstanz
-    company_url: ''
-    company_logo: 
-    location: Hamburg
-    date_start: '2015-04-01'
-    date_end: '2015-09-29'
-    description: Data collection for study of small-party system in Germany
-
-
 
 
 design:

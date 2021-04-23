@@ -6,7 +6,7 @@ title: Vera Schmitt
 superuser: true
 
 # Role/position/tagline
-role: PhD Student and Research Assistant
+role: PhD Candidate at the Institut of Computer Engineering and Theoretical Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -36,16 +36,16 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-#social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: vera.schmitt@tu-berlin.de
+social:
+- icon: envelope
+  icon_pack: fas
+  link: https://www.qu.tu-berlin.de/menue/team/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-#- icon: linkedin
- # icon_pack: fab
- # link: www.linkedin.com/in/vera-schmitt
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/vera-schmitt
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -55,13 +55,13 @@ education:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "vera.schmitt@tu-berlin.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Vera Schmitt is a PhD student at the Quality and Usability Lab TU Berlin. Her research interests range from usable privacy, fake news detection to ethics of AI. 
+Vera Schmitt is a PhD candidate at the Quality and Usability Lab TU Berlin. She started her PhD in beginning of 2020 and research interests range from usable privacy, fake news detection to ethics of AI. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
