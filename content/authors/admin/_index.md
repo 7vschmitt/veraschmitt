@@ -64,6 +64,6 @@ email: "vera.schmitt@tu-berlin.de"
 highlight_name: false
 ---
 
-Vera Schmitt is a PhD candidate at the Quality and Usability Lab TU Berlin. She started her PhD in beginning of 2020 and her research interests range from usable privacy, fake news detection to ethics of AI. 
+Vera Schmitt is a PhD candidate at the Quality and Usability Lab TU Berlin. She started her PhD in the beginning of 2020 and her research interests range from usable privacy, fake news detection to ethics of AI. 
 
 

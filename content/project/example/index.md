@@ -1,6 +1,6 @@
 ---
 title: USP Day 2021
-summary: Usable Security and Privacy Day is a full-day event gathering practitioners and enthusuats of usbale security and privacy for exchange and discussion. 
+summary: Usable Security and Privacy Day is a full-day event gathering practitioners and enthusiasts of usbale security and privacy for exchange and discussion. 
 tags:
 - Usable Privacy 
 date: "2021-02-21T00:00:00Z"

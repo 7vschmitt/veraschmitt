@@ -27,19 +27,19 @@ item:
 - certificate_url: 
   date_end: "2021-09-25"
   date_start: "2021-04-25"
-  description: Topics related to current research focus of Quality and Usability Lab are offered to teach the necessary basics and pracitcal applications. This semester I supervise a project regarding privacy-conscious descision-making.  
+  description: Topics related to the current research focus of Quality and Usability Lab are offered to teach the necessary basics and pracitcal applications. This semester, I supervise a project regarding privacy-conscious descision-making.  
   organization: TU Berlin
   organization_url: 
-  title: Advanced Study Projects SS2021
+  title: Advanced Study Projects 
   url: ""
 - certificate_url: 
   date_end: "2021-09-25"
   date_start: "2021-04-25"
-  description: Within this module the students develop products in the scope of digital media. Hereby, competencies in computer science are relevant but also creative and analytical skills.  
+  description: Within this module, the students develop products in the scope of digital media. Hereby, competencies in computer science but also creative and analytical skills are relevant.  
   
-   - Within the summer term 2021 I supervise a hardware project to develop a smart hydroponic system. 
+   - Within the summer term 2021, I supervise a hardware project to develop a smart hydroponic system. 
    
-   - Within the summer term 2020 I supervised a project about dashboard creation and advanced data visualization.
+   - Within the summer term 2020, I supervised a project about dashboard creation and advanced data visualization.
 
   organization: TU Berlin
   organization_url: 
@@ -49,7 +49,7 @@ item:
 - certificate_url: 
   date_end: "2021-03-01"
   date_start: "2020-10-01"
-  description: This seminar gives an introduction to privacy, with the focus on human aspects in information privacy. Topics include social media, location tracking, user behavior with respect to e.g. decision making, self-disclosure, and the privacy paradox. During the winter semester I supervised various topics in this seminar. 
+  description: This seminar gives an introduction to privacy with the focus on human aspects in information privacy. Topics include social media, location tracking, user behavior with respect to e.g. decision-making, self-disclosure and the privacy paradox. During the winter semester, I supervised various topics in this seminar. 
   organization: TU Berlin
   organization_url: 
   title: Usable Privacy Seminar WS2020/21
@@ -57,7 +57,7 @@ item:
 - certificate_url: 
   date_end: "2021-03-01"
   date_start: "2020-10-01"
-  description: The aim of this seminar is to introduce statistical methods, which are commonly used in the Human-computer Interaction (HCI) research, to students from practical perspective. During the winter semester I supervised various topics in this seminar. 
+  description: The aim of this seminar is to introduce statistical methods, which are commonly used in the Human-Computer Interaction (HCI) research to students from a practical perspective. During the winter semester, I supervised various topics in this seminar. 
   organization: TU Berlin
   organization_url: 
   title: Quality and Usability Seminar - Statistics WS2020/21

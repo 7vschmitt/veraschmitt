@@ -45,11 +45,11 @@ experience:
     description: |2-
       Max-Planck Institute for Meteorology (May 2018 - September 2018):
       * Data visualization of sensor data  
-      * Implementing CNN for classification of images from clouds
+      * Implemenation of CNNs for classification of images from clouds
       
       Leuphana University Lüneburg (WS2017/18 and WS2018/19):
       * Preparing and running programming exercises (R)
-      * Support the construction and correction of the exams
+      * Support the design and correction of the exams
 
       University of Konstanz (April 2015-September 2015):
       * Data collection for study of small-party system in Germany
@@ -63,8 +63,8 @@ experience:
     date_start: '2015-07-01'
     date_end: '2017-10-29'
     description: |2-
-      During my time as board member I engaged in the legal foundation of the association and organizational matters. Furthermore, I organized several data science projects:
-      * ChangemakerXchange Ashoka (2017) - participating in international conferences to connect with different social ventures from different countries  
+      During my time as board member I engaged in the legal foundation of the association and organizational tasks. Furthermore, I organized several data science projects:
+      * ChangemakerXchange Ashoka (2017) - participation in international conferences to connect with different social ventures from different countries  
       * EPIC (2017) - development of methods for impact assessment for the NGO EPIC in Malaysia
       * Waldmenschen eG (2018) - development of concepts for internal data management and data analytics for rainforest data in Panama
 

@@ -27,7 +27,7 @@ item:
 - certificate_url: 
   date_end: "2021-09-25"
   date_start: "2021-04-25"
-  description: Topics related to current research focus of Quality and Usability Lab are offered to teach the necessary basics and pracitcal applications. This semester I supervise a project regarding privacy-conscious descision-making.  
+  description: Topics related to the current research focus of Quality and Usability Lab are offered to teach the necessary basics and pracitcal applications. This semester, I supervise a project regarding privacy-conscious descision-making.  
   organization: TU Berlin
   organization_url: 
   title: Advanced Study Projects SS2021
