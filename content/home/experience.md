@@ -55,15 +55,18 @@ experience:
       * Data collection for study of small-party system in Germany
 
 
-
-  - title: Founding memeber and board member
+  - title: Founding memeber and former board member
     company: CorrelAid
     company_url: 'https://correlaid.org/'
     company_logo: 
-    location: 
+    location: Konstanz, Hamburg, Malaysia, Japan
     date_start: '2015-07-01'
     date_end: '2017-10-29'
-    description: Founding member and former board member of CorrelAid, a data science non-profit
+    description: |2-
+      During my time as board member I engaged in the legal foundation of the association and organizational matters. Furthermore, I organized several data science projects:
+      * ChangemakerXchange Ashoka (2017) - participating in international conferences to connect with different social ventures from different countries  
+      * EPIC (2017) - development of methods for impact assessment for the NGO EPIC in Malaysia
+      * Waldmenschen eG (2018) - development of concepts for internal data management and data analytics for rainforest data in Panama
 
 
 design:
