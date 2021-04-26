@@ -55,7 +55,7 @@ experience:
       * Data collection for study of small-party system in Germany
 
 
-  - title: Founding memeber and former board member
+  - title: Founding member and former board member
     company: CorrelAid
     company_url: 'https://correlaid.org/'
     company_logo: 
