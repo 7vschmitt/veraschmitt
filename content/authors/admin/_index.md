@@ -52,7 +52,10 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: https://drive.google.com/file/d/156ZuqTl7GKv3CzfQb4GONIMGm-K15wJN/view?usp=sharing
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/156ZuqTl7GKv3CzfQb4GONIMGm-K15wJN/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "vera.schmitt@tu-berlin.de"
@@ -64,4 +67,3 @@ highlight_name: false
 Vera Schmitt is a PhD candidate at the Quality and Usability Lab TU Berlin. She started her PhD in beginning of 2020 and research interests range from usable privacy, fake news detection to ethics of AI. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
