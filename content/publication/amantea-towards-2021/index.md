@@ -5,18 +5,19 @@ title: Towards a Novel Benchmark for ClaimReview Prediction in Fact-checking Art
 subtitle: ''
 summary: ''
 authors:
+- Vinicius Woloszyn and Eduardo Cortes
 - Rafael Amantea
-- Eduardo Cortes
 - Vera Schmitt
-- Vinicius Woloszyn
 - Dante Barone
 - Sebastian Möller
+
 tags: []
 categories: []
 date: '2021-02-01'
 lastmod: 2021-04-22T21:13:04+02:00
 featured: false
 draft: false
+
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
