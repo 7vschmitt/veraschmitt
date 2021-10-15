@@ -41,7 +41,7 @@ image:
 projects: []
 publishDate: '2021-04-22T19:13:04.647760Z'
 publication_types:
-- '3'
+- '1'
 abstract: The spreading of disinformation throughout the web has become a critical
   problem for a democratic society. The dissemination of fake news has become a profitable
   business and a common practice among politicians and content producers. On the other

@@ -40,7 +40,7 @@ image:
 projects: []
 publishDate: 
 publication_types:
-- '3'
+- '1'
 abstract: In April 2021 the European Commission (EC) proposed a new regulation to establish a regulatory structure for the risk assessment of Artificial Intelligence (AI) systems and applications. The intended goal of initiating a harmonised legal framework for the European Union (EU) poses new challenges in developing countermeasures for hate speech and fake news detection. This analysis investigates the implications of the proposed regulations on different automatic content moderation approaches such as flagging, blocking and filtering. The fuzzy nature of the risk categories causes major challenges for the risk categorisation task and leaves room for future improvements of the proposed regulations. 
 publication: ''
 ---
